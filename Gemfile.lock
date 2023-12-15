@@ -196,7 +196,6 @@ DEPENDENCIES
   rails (~> 7.1.1)
   sprockets-rails
   sqlite3 (~> 1.4)
-  tzinfo-data
 
 RUBY VERSION
    ruby 3.2.2p53
